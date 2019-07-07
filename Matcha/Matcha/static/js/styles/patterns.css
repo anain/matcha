@@ -1,0 +1,72 @@
+.fullWidth {width: 100%}
+.fullHeight {height: 100%}
+.overflowHidden {overflow: hidden}
+.noMargin {margin: 0}
+.noPadding {padding: 0}
+.absolute { position: absolute }
+.relative { position: relative }
+.fixed { position: fixed }
+.sticky { position: sticky }
+.flex {display: flex}
+.inlineFlex {display: inline-flex}
+.row {flex-direction: row}
+.rowReverse {flex-direction: row-reverse}
+.column {flex-direction: column}
+.columnReverse {flex-direction: column-reverse}
+.center {justify-content: center}
+.start {justify-content: flex-start}
+.end {justify-content: flex-end}
+.spaceAround {justify-content: space-around}
+.spaceBetween {justify-content: space-between}
+.spaceEvenly {justify-content: space-evenly}
+.stretch {justify-content: stretch}
+.hidden {display: 'none'}
+.alignBaseline{align-items: baseline}
+.alignSafeCenter{align-items: safe center}
+.alignCenter {
+  align-items: center;
+  align-content: center;
+}
+.flexStart, .alignStart {
+  align-items: flex-start;
+  align-content: flex-start;
+}
+.flexEnd, .alignEnd {
+  align-items: flex-end;
+  align-content: flex-end;
+}
+.justifyStart {justify-content: flex-start}
+.justifyEnd {justify-content: flex-end}
+.justifyBetween {justify-content: space-between}
+.textWrap { white-space: pre-line }
+.textNoWrap { white-space: nowrap }
+.textCenter {text-align: center}
+.textRight {text-align: right}
+.textLeft {text-align: left}
+.verticalAlign { vertical-align: middle }
+.selfStart {align-self: flex-start}
+.selfEnd {align-self: flex-end}
+.selfCenter {align-self: center}
+.selfStretch {align-self: stretch}
+.noWrap {flex-wrap: nowrap}
+.wrap {flex-wrap: wrap}
+.wrapReverse {flex-wrap: wrap-reverse}
+.hidden {display: none}
+.ellipsis{text-overflow: ellipsis}
+.capitalize{text-transform: uppercase}
+.wordWrap{white-space: pre-line}
+.wordNoWrap{white-space: nowrap}
+.pointer{cursor: pointer}
+.stretch{align-items: stretch}
+
+.padding5{padding: '5px'}
+.padding10{padding: '10px'}
+.padding15{padding: '15px'}
+.padding20{padding: '20px'}
+
+.marginRight5{margin-right: '5px'}
+.marginRight10{margin-right: '10px'}
+.marginLeft5{margin-left: '5px'}
+.marginLeft10{margin-left: '10px'}
+.marginBottom10{margin-bottom: '10px'}
+.marginTop10{margin-top: '10px'}

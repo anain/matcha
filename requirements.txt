@@ -33,7 +33,7 @@ node==0.9.23
 npm==0.1.1
 odict==1.6.2
 optional-django==0.3.0
-Pillow==5.4.1
+Pillow==9.3.0
 plumber==1.5
 pm==0.1.1
 psycopg2==2.7.6.1
